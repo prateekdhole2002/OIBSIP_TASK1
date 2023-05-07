@@ -4,4 +4,4 @@ Description : This project is an implementation of ML model to Classify iris flo
 
 The repository includes the following files :
 Task 1.ipynb : Ajupyter notebook containing the code for data preprocessing and evaluation.
-iris.csv : The dataset used in the project.
+Iris.csv : The dataset used in the project.
